@@ -1,4 +1,11 @@
-baseURL = "https://yuko-sh-blog.netlify.app/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "harbor"
+baseURL = "https://yuko-sh-blog.com/"
+languageCode = "ja"
+title = "中堅になりたいエンジニアブログ。"
+theme = "jeffprod"
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"

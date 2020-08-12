@@ -4,3 +4,4 @@ command = "hugo --theme=harbor  --gc --minify"
 
 [context.production.environment]
 HUGO_VERSION = "0.74.3"
+

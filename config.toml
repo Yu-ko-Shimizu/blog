@@ -1,6 +1,6 @@
 baseURL = "https://yuko-sh-blog.com/"
 languageCode = "ja"
-title = "中堅になりたいエンジニアブログ。"
+title = "そろそろ中堅エンジニアブログ"
 theme = "jeffprod"
 
 [permalinks]
